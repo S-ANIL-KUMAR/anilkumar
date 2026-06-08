@@ -17,10 +17,10 @@
 I'm a **detail-oriented Data Analyst** from Andhra Pradesh, India — passionate about transforming raw, messy data into meaningful insights that drive real business decisions. I love working across the full analytics stack: from wrangling data with Python and SQL to building interactive dashboards in Power BI.
 
 - 🎓 B.Tech in Computer Science Engineering — **CGPA: 8.7**
-- 🧠 Experienced with **EDA, Machine Learning, Data Visualization & Business Reporting**
+- 🧠 Experienced with **EDA, Data Visualization & Business Reporting**
 - 🛠️ Built CNN models, SQL business insight engines, and Power BI dashboards from scratch
 - 💡 Currently interning at **Besant Technologies** (AICTE & ICAC approved Data Analytics program)
-- 🌐 Open to **Data Analyst / Data Science** roles — let's build something impactful together!
+- 🌐 Open to **Data Analyst** roles — let's build something impactful together!
 - 📬 Reach me at: **s80916004@gmail.com**
 
 ---

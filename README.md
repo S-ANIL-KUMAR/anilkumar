@@ -5,9 +5,9 @@
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Anil+Kumar" alt="wave greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+ S Anil+Kumar" alt="wave greeting" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+Developer;Turning+Data+into+Decisions+%E2%9C%A8" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+Developer;Turning+Data+into+Decisions+%E2%9C%A8" alt="typing animation" />
 </div>
 
 ---
@@ -39,8 +39,6 @@ I'm a **detail-oriented Data Analyst** from Andhra Pradesh, India — passionate
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Visualization & BI Tools**
 
@@ -52,8 +50,6 @@ I'm a **detail-oriented Data Analyst** from Andhra Pradesh, India — passionate
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects

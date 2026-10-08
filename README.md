@@ -17,7 +17,7 @@
 I'm a **detail-oriented Data Analyst** from Andhra Pradesh, India — passionate about transforming raw, messy data into meaningful insights that drive real business decisions. I love working across the full analytics stack: from wrangling data with Python and SQL to building interactive dashboards in Power BI.
 
 - 🎓 B.Tech in Computer Science Engineering — **CGPA: 8.7**
-- 🧠 Experienced with **EDA, Data Visualization & Business Reporting**
+- 🧠 Experienced with ** Data Visualization & Business Reporting**
 - 🛠️ Built CNN models, SQL business insight engines, and Power BI dashboards from scratch
 - 💡 Currently interning at **Besant Technologies** (AICTE & ICAC approved Data Analytics program)
 - 🌐 Open to **Data Analyst** roles — let's build something impactful together!
@@ -63,7 +63,6 @@ I'm a **detail-oriented Data Analyst** from Andhra Pradesh, India — passionate
 | 📊 **Real Mart Analysis Dashboard** | Interactive Power BI dashboard with city/branch/product-wise KPIs | Power BI |
 | 🌾 **Grain Classification (CNN)** | Deep learning model for grain image classification | Python, CNN |
 | 🔍 **SQL Business Insights** | Optimized queries on customer & sales data for business reporting | MySQL |
-| 📈 **EDA Project** | Exploratory data analysis with visual business insights | Python, Pandas |
 
 ---
 

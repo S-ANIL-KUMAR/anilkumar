@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+ S Anil+Kumar" alt="wave greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Anil+Kumar" alt="wave greeting" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+Developer;Turning+Data+into+Decisions+%E2%9C%A8" alt="typing animation" />
 </div>
